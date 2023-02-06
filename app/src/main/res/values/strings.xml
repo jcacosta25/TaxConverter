@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="calculate">Calculate</string>
+    <string name="total">Total</string>
+    <string name="iva" translatable="false">IVA</string>
+    <string name="total_tax">TOTAL + TAX</string>
+    <string name="isr" translatable="false">ISR</string>
+    <string name="total_tax_hint">Total with Taxes</string>
+</resources>
